@@ -12,8 +12,11 @@ cd MotionDetection
 pip install -r requirements.txt
 ```
 # Usage
-To use this, execute the following command.
+Before you start this, you must add oauth2_refresh_token, app_key and app_secret to update_access_token.  
+In addition, to use this execute the following command.
 ```
 python main.py
 ```
-main.py contains the changeable parameter. 
+main.py contains the changeable parameter like size, the destination local and dropbox directory, etc... .  
+When you want to change these, please rewrite main.py  
+
