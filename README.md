@@ -13,7 +13,7 @@ pip install -r requirements.txt
 ```
 # Usage
 Before you start this, you must add oauth2_refresh_token, app_key and app_secret to update_access_token.  
-In addition, to use this execute the following command.
+To start this program, execute the following command.
 ```
 python main.py
 ```
