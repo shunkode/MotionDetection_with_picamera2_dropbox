@@ -11,3 +11,9 @@ Move to the MotionDetection directory and install library
 cd MotionDetection
 pip install -r requirements.txt
 ```
+# Usage
+To use this, execute the following command.
+```
+python main.py
+```
+main.py contains the changeable parameter. 
