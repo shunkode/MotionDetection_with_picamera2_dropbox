@@ -6,7 +6,15 @@ Shot videos are sent to dropbox.
 ```
 git clone https://github.com/shunkode/MotionDetection_with_picamera2_dropbox.git
 ```
-Move to the MotionDetection directory and install library
+If you want to create python virtual environments, please input the following command.  
+```
+python -m venv --system-site-packages my-env
+```
+please assign the environment name to my-env.  
+If you want to know more, please see the official manual.  
+<https://datasheets.raspberrypi.com/camera/picamera2-manual.pdf>  
+  
+Next, move to the MotionDetection directory and install library
 ```
 cd MotionDetection
 pip install -r requirements.txt
