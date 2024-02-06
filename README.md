@@ -18,6 +18,8 @@ Next, move to the MotionDetection directory and install library
 ```
 cd MotionDetection
 pip install -r requirements.txt
+cd yolov5
+pip install -r requirements.txt
 ```
 # Usage
 Before you start this, you must add oauth2_refresh_token, app_key and app_secret to update_access_token.  
