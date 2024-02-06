@@ -23,6 +23,7 @@ pip install -r requirements.txt
 Before you start this, you must add oauth2_refresh_token, app_key and app_secret to update_access_token.  
 To start this program, execute the following command.
 ```
+cd yolov5
 python main.py
 ```
 main.py contains the changeable parameter like size, the destination local and dropbox directory, etc... .  
