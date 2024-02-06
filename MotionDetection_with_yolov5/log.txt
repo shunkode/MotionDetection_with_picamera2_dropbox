@@ -1,0 +1,7 @@
+The time error occurred: 2024_02_02_16_16_32, The function name: capture_detect, Error name: (TypeError): capture_detect.__init__() got an unexpected keyword argument 'AUTO_WHITE_BALANCE'
+The time error occurred: 2024_02_02_16_16_32, The function name: concurrent_execution, Error name: (AttributeError): 'NoneType' object has no attribute 'save_dir'
+The time error occurred: 2024_02_02_16_17_10, The function name: capture_detect, Error name: (TypeError): capture_detect.__init__() got an unexpected keyword argument 'AUTO_WHITE_BALANCE'
+The time error occurred: 2024_02_02_16_17_10, The function name: concurrent_execution, Error name: (AttributeError): 'NoneType' object has no attribute 'save_dir'
+The time error occurred: 2024_02_02_16_17_43, The function name: concurrent_execution, Error name: (BadInputError): BadInputError('d9354e46d31b4e51ad7574182fff420c', '{"error": "invalid_client: Invalid client_id or client_secret"}')
+The time error occurred: 2024_02_02_16_20_41, The function name: concurrent_execution, Error name: (ConnectionError): HTTPSConnectionPool(host='api.dropboxapi.com', port=443): Max retries exceeded with url: /oauth2/token (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f4a4d7e10>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
+The time error occurred: 2024_02_02_16_26_24, The function name: concurrent_execution, Error name: (BadInputError): BadInputError('562d31302417489188bfd458b7a7ae64', '{"error": "invalid_client: Invalid client_id or client_secret"}')
