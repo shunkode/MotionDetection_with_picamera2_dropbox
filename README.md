@@ -2,6 +2,9 @@
 This can shoot videos every time the object caught in a picamera moves.
 Shot videos are sent to dropbox.
 
+# System overview
+![システムワークフロー_v1](https://github.com/shunkode/MotionDetection_with_picamera2_dropbox/assets/106649051/592ef63f-d8fd-4917-8f41-222229891311)
+
 # Installation
 ```
 git clone https://github.com/shunkode/MotionDetection_with_picamera2_dropbox.git
