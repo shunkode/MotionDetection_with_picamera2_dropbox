@@ -5,8 +5,7 @@ Shot videos are sent to dropbox.
 The programs I made is following: main.py, Capture_and_Send.py, update_access_token.py, decorator.py, keyboard_wait.py, judge_os.py and other(README.md etc...).
 
 # System overview
-![system overview](https://github.com/shunkode/MotionDetection_with_picamera2_dropbox/assets/106649051/a6c2814f-4faf-4c20-8cc0-07823a67d5e1)
-
+![システムワークフロー_v1](https://github.com/shunkode/MotionDetection_with_picamera2_dropbox/assets/106649051/592ef63f-d8fd-4917-8f41-222229891311)
 # Installation
 ```
 git clone https://github.com/shunkode/MotionDetection_with_picamera2_dropbox.git
